@@ -32,5 +32,6 @@ Retail customers often forget to reorder products they regularly purchase. The o
 
 ## Repository Contents
 
-- Jupyter Notebook
-- Dataset
+- Hybrid Retail Recommendation System.ipynb
+- All Except Last Orders.csv
+- Last Orders Subset.csv
