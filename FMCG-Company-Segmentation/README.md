@@ -26,5 +26,5 @@ Financial ratios alone do not always provide a clear understanding of how compan
 - Visualized clusters using PCA.
 
 ## Repository Contents
-- Jupyter Notebook
-- Dataset
+- FMCG_Company_Segmentation.ipynb
+- 50 FMCG Companies.csv
